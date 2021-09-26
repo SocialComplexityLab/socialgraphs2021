@@ -1,0 +1,657 @@
+Name,Role,Race,Gender
+Baddek,Ally,Hylian,Male
+Bamboo,Ally,Horse,Unknown
+Banji,Ally,Hylian,Female
+Baumar,Ally,Hylian,Male
+Bayge,Ally,Goron,Male
+Beedle,Ally,Human,Male
+Bolson,Ally,Hylian,Male
+Brigo,Ally,Hylian,Male
+Cambo,Ally,Hylian,Male
+Chabi,Ally,Hylian,Female
+Chork,Ally,Hylian,Male
+Chumin,Ally,Hylian,Male
+Dabi,Ally,Hylian,Male
+Daruk,Ally,Goron,Male
+Dauntless,Ally,Horse,Unknown
+Dinraal,Ally,Dragon,Unknown
+Ena,Ally,Hylian,Female
+Endai,Ally,Hylian,Male
+Epona,Ally,Horse,Female
+Farosh,Ally,Dragon,Unknown
+Fyson,Ally,Rito,Male
+Goflam,Ally,Unknown,Unknown
+Greyson,Ally,Goron,Male
+Heehl,Ally,Goron,Male
+Hestu,Ally,Korok,Male
+Hudson,Ally,Hylian,Male
+Hylia,Ally,Hylian,Female
+Kabetta,Ally,Goron,Male
+Kanny,Ally,Hylian,Male
+Kapson,Ally,Zora,Male
+Karson,Ally,Hylian,Male
+Kass,Ally,Rito,Male
+Kenyo,Ally,Hylian,Male
+Kilton,Ally,Hylian,Male
+Leekah,Ally,Hylian,Female
+Link,Ally,Hylian,Male
+Meeshy,Ally,Hylian,Female
+Meghyn,Ally,Hylian,Female
+Mei,Ally,Zora,Female
+Mils,Ally,Hylian,Male
+Mina,Ally,Hylian,Female
+Mipha,Ally,Zora,Female
+Misko,Ally,Unknown,Unknown
+Nat,Ally,Hylian,Female
+Naydra,Ally,Dragon,Unknown
+Nazbi,Ally,Hylian,Male
+Pelison,Ally,Goron,Male
+Pikango,Ally,Sheikah,Male
+Regan,Ally,Hylian,Male
+Revali,Ally,Rito,Male
+Rhondson,Ally,Gerudo,Female
+Rik,Ally,Hylian,Male
+Ronn,Ally,Hylian,Male
+Savelle,Ally,Hylian,Male
+Sherfin,Ally,Unknown,Unknown
+Sho,Ally,Hylian,Male
+Sorelia,Ally,Hylian,Female
+Spoone,Ally,Hylian,Male
+Toren,Ally,Hylian,Male
+Totsuna,Ally,Hylian,Female
+Tye,Ally,Hylian,Male
+Urbosa,Ally,Gerudo,Female
+Yammo,Ally,Hylian,Female
+Princess Zelda,Ally,Hylian,Female
+Zyle,Ally,Hylian,Male
+Laroba,Ally,Gerudo,Female
+Naddon,Ally,Goron,Male
+Pitar,Ally,Hylian,Male
+Dah Hesho,Ally,Sheikah,Male
+Dmitri,Ally,Hylian,Male
+Gleema,Ally,Hylian,Female
+Jana,Ally,Hylian,Female
+Kah Mael,Ally,Sheikah,Male
+Kaifa,Ally,Hylian,Female
+Ke'nai Shakah,Ally,Sheikah,Male
+Lonni,Ally,Hylian,Female
+Nell,Ally,Hylian,Male
+Rex,Ally,Hylian,Male
+Stamm,Ally,Hylian,Male
+Tenne,Ally,Hylian,Female
+Tutsuwa Nima,Ally,Sheikah,Male
+Ze Kasho,Ally,Sheikah,Male
+Granté,Ally,Hylian,Male
+Hagie,Ally,Hylian,Male
+Hunnie,Ally,Hylian,Female
+Moggs,Ally,Hylian,Male
+Monari,Ally,Hylian,Female
+Ruli,Ally,Hylian,Female
+Ritaag Zumo,Ally,Sheikah,Male
+Tu Ka'loh,Ally,Sheikah,Male
+Aya,Ally,Hylian,Female
+Cherry,Ally,Unknown,Unknown
+Hoz,Ally,Hylian,Male
+Jerrin,Ally,Hylian,Female
+Katosa Aug,Ally,Sheikah,Male
+Khini,Ally,Hylian,Male
+Nobo,Ally,Hylian,Female
+Robbie,Ally,Sheikah,Male
+Rudi,Ally,Hylian,Male
+Zuna Kai,Ally,Sheikah,Male
+Glendo,Ally,Hylian,Male
+King Rhoam,Ally,Hylian,Male
+Etsu Korima,Ally,Sheikah,Male
+Ja Baij,Ally,Sheikah,Male
+Keh Namut,Ally,Sheikah,Male
+Old Man,Ally,Hylian,Male
+Oman Au,Ally,Sheikah,Male
+Owa Daim,Ally,Sheikah,Male
+Rohta Chigah,Ally,Sheikah,Male
+Ruvo Korbah,Ally,Sheikah,Male
+Yowaka Ita,Ally,Sheikah,Male
+Aliza,Ally,Hylian,Female
+Benny,Ally,Hylian,Female
+Bosh Kala,Ally,Sheikah,Male
+Botrick,Ally,Hylian,Male
+Canni,Ally,Hylian,Female
+Dah Kaso,Ally,Sheikah,Male
+Dai,Ally,Hylian,Male
+Gotter,Ally,Hylian,Male
+Haite,Ally,Hylian,Female
+Kaam Ya'tak,Ally,Sheikah,Male
+Katah Chuki,Ally,Sheikah,Male
+Monya Toma,Ally,Sheikah,Male
+Myti,Ally,Hylian,Female
+Namika Ozz,Ally,Sheikah,Male
+Noya Neha,Ally,Sheikah,Male
+Parcy,Ally,Hylian,Female
+Rota Ooh,Ally,Sheikah,Male
+Saas Ko'sah,Ally,Sheikah,Male
+Toffa,Ally,Hylian,Male
+Trott,Ally,Hylian,Male
+Wahgo Katta,Ally,Sheikah,Male
+Zalta Wa,Ally,Sheikah,Male
+Branli,Ally,Hylian,Male
+Konba,Ally,Hylian,Male
+Maag No'rah,Ally,Sheikah,Male
+Mijah Rokee,Ally,Sheikah,Male
+Mogg Latan,Ally,Sheikah,Male
+Shira Gomar,Ally,Sheikah,Male
+Toh Yahsa,Ally,Sheikah,Male
+Yunobo,Ally,Goron,Male
+Ashe,Ally,Hylian,Male
+Axyl,Ally,Goron,Male
+Bladon,Ally,Goron,Male
+Bohrin,Ally,Goron,Male
+Boldon,Ally,Goron,Male
+Breen,Ally,Hylian,Female
+Daqa Koh,Ally,Unknown,Unknown
+Dayto,Ally,Hylian,Male
+Dorill,Ally,Goron,Male
+Douma,Ally,Hylian,Female
+Drak,Ally,Goron,Male
+Dugby,Ally,Goron,Male
+Fin,Ally,Hylian,Male
+Gaile,Ally,Hylian,Female
+Gonguron,Ally,Goron,Male
+Gorae Torr,Ally,Sheikah,Male
+Grapp,Ally,Goron,Male
+Jengo,Ally,Goron,Male
+Kairo,Ally,Goron,Male
+Karsh,Ally,Gerudo,Female
+Kayra Mah,Ally,Unknown,Unknown
+Kima,Ally,Hylian,Male
+Kish,Ally,Hylian,Male
+Mayro,Ally,Hylian,Male
+Mirro Shaz,Ally,Sheikah,Male
+Mo'a Keet,Ally,Sheikah,Male
+Molo,Ally,Hylian,Male
+Offrak,Ally,Goron,Male
+Ozunda,Ally,Hylian,Male
+Qua Raym,Ally,Sheikah,Male
+Russ,Ally,Hylian,Male
+Sah Dahaj,Ally,Sheikah,Male
+Shamae,Ally,Hylian,Female
+Shora Hah,Ally,Unknown,Unknown
+Tah Muhl,Ally,Sheikah,Male
+Zorona,Ally,Hylian,Male
+Aji,Ally,Goron,Male
+Bargoh,Ally,Goron,Male
+Bludo,Ally,Goron,Male
+Fugo,Ally,Goron,Male
+Krane,Ally,Goron,Male
+Pyle,Ally,Goron,Male
+Ramella,Ally,Gerudo,Female
+Rogaro,Ally,Goron,Male
+Rohan,Ally,Goron,Male
+Shae Mo'sah,Ally,Sheikah,Male
+Slergo,Ally,Goron,Male
+Tanko,Ally,Goron,Male
+Tray,Ally,Goron,Male
+Volcon,Ally,Goron,Male
+Akrah,Ally,Hylian,Male
+Daag Chokah,Ally,Sheikah,Male
+Garshon,Ally,Hylian,Male
+Ketoh Wawai,Ally,Sheikah,Male
+Kuhn Sidajj,Ally,Sheikah,Male
+Maag Halan,Ally,Sheikah,Male
+Oaki,Ally,Korok,Unknown
+Onya,Ally,Hylian,Male
+Sprinn,Ally,Hylian,Male
+Tasho,Ally,Korok,Unknown
+Zooki,Ally,Korok,Unknown
+Zumi,Ally,Hylian,Female
+Chio,Ally,Korok,Male
+Damia,Ally,Korok,Unknown
+Daz,Ally,Korok,Unknown
+Keo Ruug,Ally,Unknown,Unknown
+Kula,Ally,Korok,Unknown
+Maca,Ally,Korok,Unknown
+Natie,Ally,Korok,Unknown
+Peeks,Ally,Korok,Male
+Pepp,Ally,Korok,Unknown
+The Great Deku Tree,Ally,Unknown,Male
+Walton,Ally,Korok,Unknown
+Blynne,Ally,Hylian,Male
+Jini,Ally,Hylian,Male
+Ka'o Makagh,Ally,Sheikah,Male
+Loone,Ally,Hylian,Female
+Malanya,Ally,Great Fairy,Male
+Padok,Ally,Hylian,Male
+Perosa,Ally,Hylian,Female
+Phanna,Ally,Hylian,Female
+Pumaag Nitae,Ally,Sheikah,Male
+Roscoe,Ally,Ancient Orb,Unknown
+Shae Katha,Ally,Sheikah,Male
+Shoqa Tatone,Ally,Sheikah,Male
+Straia,Ally,Hylian,Male
+Suzuna,Ally,Hylian,Female
+Ya Naga,Ally,Sheikah,Male
+Barta,Ally,Gerudo,Female
+Calisa,Ally,Gerudo,Female
+Eighth Heroine,Ally,Unknown,Female
+Gartan,Ally,Hylian,Male
+Lukan,Ally,Gerudo,Female
+Seven Heroines,Ally,Unknown,Unknown
+Anche,Ally,Gerudo,Female
+Benja,Ally,Hylian,Male
+Dako Tah,Ally,Sheikah,Male
+Daqo Chisay,Ally,Sheikah,Male
+Dila Maag,Ally,Sheikah,Male
+Dillie,Ally,Hylian,Male
+Hawa Koth,Ally,Sheikah,Male
+Jee Noh,Ally,Sheikah,Male
+Jora,Ally,Hylian,Male
+Kay Noh,Ally,Sheikah,Male
+Keive Tala,Ally,Sheikah,Male
+Kema Zoos,Ally,Unknown,Unknown
+Konora,Ally,Gerudo,Female
+Korsh O'hu,Ally,Sheikah,Male
+Kyra,Ally,Gerudo,Female
+Misae Suma,Ally,Sheikah,Male
+Patricia,Ally,Sand Seal,Female
+Pokki,Ally,Gerudo,Female
+Raqa Zunzo,Ally,Sheikah,Male
+Riju,Ally,Gerudo,Female
+Shabonne,Ally,Gerudo,Female
+Strade,Ally,Goron,Male
+Sudrey,Ally,Gerudo,Female
+Takama Shiri,Ally,Sheikah,Male
+Tali,Ally,Gerudo,Female
+Tera,Ally,Great Fairy,Female
+Tho Kayu,Ally,Sheikah,Male
+Ardin,Ally,Gerudo,Female
+Ashai,Ally,Gerudo,Female
+Aurie Taamu,Ally,Unknown,Male
+Babi,Ally,Gerudo,Female
+Bertri,Ally,Gerudo,Female
+Bozai,Ally,Hylian,Male
+Buliara,Ally,Gerudo,Female
+Calyban,Ally,Gerudo,Female
+Cara,Ally,Gerudo,Female
+Dalia,Ally,Gerudo,Female
+Danda,Ally,Gerudo,Female
+Deltan,Ally,Gerudo,Female
+Dina,Ally,Gerudo,Female
+Dorrah,Ally,Gerudo,Female
+Essa,Ally,Gerudo,Female
+Estan,Ally,Gerudo,Female
+Fegran,Ally,Gerudo,Female
+Frelly,Ally,Gerudo,Female
+Frita,Ally,Rito,Female
+Furosa,Ally,Gerudo,Female
+Greta,Ally,Gerudo,Female
+Isha,Ally,Gerudo,Female
+Jules,Ally,Hylian,Female
+Kalani,Ally,Gerudo,Female
+Katta,Ally,Gerudo,Female
+Kohm,Ally,Gerudo,Female
+Kotta,Ally,Gerudo,Female
+Laine,Ally,Gerudo,Female
+Lashley,Ally,Gerudo,Female
+Leena,Ally,Gerudo,Female
+Liana,Ally,Gerudo,Female
+Lorn,Ally,Gerudo,Female
+Lyndae,Ally,Goron,Male
+Makure,Ally,Gerudo,Female
+Malena,Ally,Gerudo,Female
+Marta,Ally,Gerudo,Female
+Merina,Ally,Gerudo,Female
+Muava,Ally,Gerudo,Female
+Nali,Ally,Gerudo,Female
+Nellie,Ally,Gerudo,Female
+Olu,Ally,Gerudo,Female
+Padda,Ally,Gerudo,Female
+Pasha,Ally,Gerudo,Female
+Pearle,Ally,Gerudo,Female
+Ploka,Ally,Gerudo,Female
+Pritana,Ally,Gerudo,Female
+Pyra,Ally,Gerudo,Female
+Reeza,Ally,Gerudo,Female
+Rima,Ally,Gerudo,Female
+Risa,Ally,Gerudo,Female
+Romah,Ally,Gerudo,Female
+Rotana,Ally,Gerudo,Female
+Saula,Ally,Gerudo,Female
+Smaude,Ally,Gerudo,Female
+Spera,Ally,Gerudo,Female
+Sumati,Ally,Gerudo,Female
+Tauma,Ally,Hylian,Female
+Teake,Ally,Gerudo,Female
+Traysi,Ally,Hylian,Female
+Yaido,Ally,Gerudo,Female
+Emri,Ally,Gerudo,Female
+Guy,Ally,Rito,Male
+Kachoo,Ally,Gerudo,Female
+Maike,Ally,Gerudo,Female
+Nobiro,Ally,Hylian,Male
+Ripp,Ally,Gerudo,Female
+Robsten,Ally,Hylian,Male
+Shaillu,Ally,Gerudo,Female
+Vilia,Ally,Hylian,Female
+Canolo,Ally,Hylian,Female
+Flaxel,Ally,Hylian,Female
+Ishto Soh,Ally,Sheikah,Male
+Joloo Nah,Ally,Sheikah,Male
+Keeha Yoog,Ally,Sheikah,Male
+Kema Kosassa,Ally,Sheikah,Male
+Kihiro Moh,Ally,Sheikah,Male
+Kuh Takkar,Ally,Sheikah,Male
+Maypin,Ally,Hylian,Male
+Moza,Ally,Hylian,Female
+Oliff,Ally,Hylian,Male
+Palme,Ally,Hylian,Male
+Piaffe,Ally,Hylian,Male
+Pirou,Ally,Hylian,Male
+Sasa Kai,Ally,Sheikah,Male
+Sesami,Ally,Hylian,Male
+Sho Dantu,Ally,Unknown,Unknown
+Suma Sahma,Ally,Sheikah,Male
+Falmark,Ally,Hylian,Male
+Teba,Ally,Rito,Male
+Tulin,Ally,Rito,Male
+Goma Asaagh,Ally,Sheikah,Male
+Hia Miu,Ally,Sheikah,Male
+Kiah Toza,Ally,Sheikah,Male
+Maka Rah,Ally,Sheikah,Male
+Mozo Shenno,Ally,Sheikah,Male
+Noe Rajee,Ally,Sheikah,Male
+Qaza Tokki,Ally,Sheikah,Male
+Rok Uwog,Ally,Sheikah,Male
+Selmie,Ally,Hylian,Female
+Sha Warvo,Ally,Sheikah,Male
+Shada Naw,Ally,Sheikah,Male
+To Quomo,Ally,Sheikah,Male
+Danton,Ally,Hylian,Male
+Harlow,Ally,Hylian,Female
+Harry (Breath of the Wild),Ally,Horse,Male
+Juannelle,Ally,Hylian,Female
+Mary (Breath of the Wild),Ally,Horse,Female
+Monkton,Ally,Hylian,Male
+Rin Oyaa,Ally,Sheikah,Male
+Sha Gehma,Ally,Sheikah,Male
+Varke,Ally,Hylian,Male
+Ariane,Ally,Hylian,Female
+Bareeda Naag,Ally,Unknown,Unknown
+Cree,Ally,Rito,Female
+Dunba Taag,Ally,Sheikah,Male
+Galli,Ally,Hylian,Male
+Gee Ha'rah,Ally,Sheikah,Male
+Geggle,Ally,Hylian,Male
+Genli,Ally,Rito,Female
+Gesane,Ally,Rito,Male
+Kah Okeo,Ally,Sheikah,Male
+Kaysa,Ally,Great Fairy,Female
+Kheel,Ally,Rito,Female
+Kotts,Ally,Rito,Female
+Lanno Kooh,Ally,Sheikah,Male
+Lester,Ally,Hylian,Male
+Modar,Ally,Goron,Male
+Molli,Ally,Rito,Female
+Notts,Ally,Rito,Female
+Pondo,Ally,Hylian,Male
+Ponthos,Ally,Hylian,Male
+Rona Kachta,Ally,Sheikah,Male
+Shae Loya,Ally,Sheikah,Male
+Sheem Dagoze,Ally,Sheikah,Male
+Tena Ko'sah,Ally,Sheikah,Male
+Voo Lota,Ally,Unknown,Unknown
+Akh Va'quot,Ally,Sheikah,Male
+Amali,Ally,Rito,Female
+Bedoli,Ally,Rito,Female
+Cecili,Ally,Rito,Female
+Harth,Ally,Rito,Male
+Huck,Ally,Rito,Male
+Jogo,Ally,Hylian,Male
+Juney,Ally,Hylian,Female
+Kaneli,Ally,Rito,Male
+Laissa,Ally,Rito,Female
+Mazli,Ally,Rito,Male
+Misa,Ally,Rito,Female
+Nekk,Ally,Rito,Male
+Saki,Ally,Rito,Female
+Verla,Ally,Rito,Male
+Gruve,Ally,Zora,Male
+Ledo,Ally,Zora,Male
+Tona,Ally,Zora,Female
+Tottika,Ally,Zora,Male
+Tula,Ally,Zora,Female
+Eryck,Ally,Hylian,Male
+Dagah Keek,Ally,Sheikah,Male
+Mezza Lo,Ally,Sheikah,Male
+Rucco Maag,Ally,Sheikah,Male
+Sidon,Ally,Zora,Male
+Soh Kofi,Ally,Sheikah,Male
+Torfeau,Ally,Zora,Female
+Bazz,Ally,Zora,Male
+Cleff,Ally,Zora,Male
+Dento,Ally,Zora,Male
+Dunma,Ally,Zora,Female
+Finley,Ally,Zora,Female
+Fronk,Ally,Zora,Male
+Gaddison,Ally,Zora,Female
+Jiahto,Ally,Zora,Male
+Kayden,Ally,Zora,Male
+Keye,Ally,Zora,Male
+King Dorephan,Ally,Zora,Male
+Kodah,Ally,Zora,Female
+Laflat,Ally,Zora,Female
+Laruta,Ally,Zora,Female
+Marot,Ally,Zora,Female
+Muzu,Ally,Zora,Male
+Ne'ez Yohma,Ally,Sheikah,Male
+Reagah,Ally,Goron,Male
+Rivan,Ally,Zora,Male
+Seggin,Ally,Zora,Male
+Trello,Ally,Zora,Male
+Tumbo,Ally,Zora,Male
+Shai Yota,Ally,Sheikah,Male
+Ami,Ally,Hylian,Male
+Daka Tuss,Ally,Sheikah,Male
+Izra,Ally,Hylian,Male
+Kaya Wan,Ally,Sheikah,Male
+Lawdon,Ally,Hylian,Male
+Quince,Ally,Hylian,Male
+Satty,Ally,Dog,Male
+Sheh Rata,Ally,Unknown,Unknown
+Yolero,Ally,Hylian,Male
+Jitan Sa'mi,Ally,Sheikah,Male
+Tahno O'ah,Ally,Sheikah,Male
+Agus,Ally,Hylian,Male
+Celessa,Ally,Hylian,Female
+Garill,Ally,Hylian,Male
+Joute,Ally,Hylian,Male
+Letty,Ally,Hylian,Female
+Spinch (Horse),Ally,Horse,Unknown
+Spinch (Hylian),Ally,Hylian,Unknown
+Toma,Ally,Hylian,Female
+Calip,Ally,Hylian,Male
+Dow Na'eh,Ally,Sheikah,Male
+Flavi,Ally,Gerudo,Female
+Garini,Ally,Hylian,Male
+Kah Yah,Ally,Sheikah,Male
+Kam Urog,Ally,Sheikah,Male
+Mimos,Ally,Hylian,Male
+Muwo Jeem,Ally,Sheikah,Male
+Perda,Ally,Gerudo,Female
+Tawa Jinn,Ally,Sheikah,Male
+Teli,Ally,Hylian,Male
+Wabbin,Ally,Hylian,Male
+Amira,Ally,Hylian,Female
+Aster,Ally,Hylian,Female
+Azu,Ally,Hylian,Male
+Clavia,Ally,Hylian,Female
+Dantz,Ally,Hylian,Male
+Horned Statue,Ally,Unknown,Male
+Ivee,Ally,Hylian,Female
+Karin,Ally,Hylian,Female
+Koyin,Ally,Hylian,Female
+Leop,Ally,Hylian,Male
+Manny (Breath of the Wild),Ally,Hylian,Male
+Medda,Ally,Hylian,Male
+Myahm Agana,Ally,Sheikah,Male
+Nack,Ally,Hylian,Male
+Narah,Ally,Hylian,Female
+Nebb,Ally,Hylian,Male
+Nikki,Ally,Hylian,Female
+Prima,Ally,Hylian,Female
+Pruce,Ally,Hylian,Male
+Purah,Ally,Sheikah,Female
+Ralera,Ally,Hylian,Female
+Reede,Ally,Hylian,Male
+Rhodes,Ally,Hylian,Male
+Sayge,Ally,Hylian,Male
+Sefaro,Ally,Hylian,Male
+Seldon,Ally,Hylian,Male
+Senna,Ally,Hylian,Female
+Sophie,Ally,Hylian,Female
+Symin,Ally,Sheikah,Male
+Tamana,Ally,Hylian,Female
+Teebo,Ally,Hylian,Male
+Thadd,Ally,Hylian,Male
+Tokk,Ally,Hylian,Male
+Uma,Ally,Hylian,Female
+Worten,Ally,Hylian,Male
+Armes,Ally,Hylian,Male
+Chessica,Ally,Hylian,Female
+Cloyne,Ally,Hylian,Male
+Kiana,Ally,Hylian,Female
+Kinov,Ally,Hylian,Male
+Mubs,Ally,Hylian,Female
+Numar,Ally,Hylian,Male
+Rozel,Ally,Hylian,Male
+Sebasto,Ally,Hylian,Male
+Yah Rin,Ally,Sheikah,Male
+Zuta,Ally,Hylian,Male
+Chaas Qeta,Ally,Sheikah,Male
+Korgu Chideh,Ally,Sheikah,Male
+Mimo,Ally,Rito,Male
+Anly,Ally,Hylian,Male
+Brokka,Ally,Hylian,Female
+Bugut,Ally,Hylian,Male
+Cima,Ally,Hylian,Female
+Cotera,Ally,Great Fairy,Female
+Darton,Ally,Hylian,Male
+Domidak,Ally,Hylian,Male
+Giro,Ally,Hylian,Male
+Ha Dahamar,Ally,Sheikah,Male
+Hila Rao,Ally,Sheikah,Male
+Hino,Ally,Hylian,Male
+Kampo,Ally,Hylian,Male
+Magda,Ally,Hylian,Female
+Prissen,Ally,Hylian,Male
+Qukah Nata,Ally,Sheikah,Male
+Ree Dahee,Ally,Sheikah,Male
+Rensa,Ally,Hylian,Male
+Sagessa,Ally,Hylian,Female
+Shai Utoh,Ally,Sheikah,Male
+Shay,Ally,Hylian,Male
+Shee Vaneer,Ally,Sheikah,Male
+Shee Venath,Ally,Sheikah,Male
+Shibo,Ally,Hylian,Male
+Shoda Sah,Ally,Unknown,Unknown
+Tasseren,Ally,Hylian,Male
+Toto Sah,Ally,Sheikah,Male
+Cado,Ally,Sheikah,Male
+Claree,Ally,Sheikah,Female
+Cottla,Ally,Sheikah,Female
+Dorian,Ally,Sheikah,Male
+Impa,Ally,Sheikah,Female
+Koko,Ally,Sheikah,Female
+Lakna Rokee,Ally,Sheikah,Male
+Lasli,Ally,Sheikah,Female
+Mellie,Ally,Sheikah,Female
+Nanna,Ally,Sheikah,Female
+Olkin,Ally,Sheikah,Male
+Ollie,Ally,Sheikah,Male
+Paya,Ally,Sheikah,Female
+Rola,Ally,Hylian,Female
+Steen,Ally,Sheikah,Male
+Ta'loh Naeg,Ally,Sheikah,Male
+Trissa,Ally,Sheikah,Female
+Black Bokoblin,Enemy,Bokoblin,Unknown
+Black Lizalfos,Enemy,Lizalfos,Unknown
+Black Moblin,Enemy,Moblin,Unknown
+Blizzrobe,Enemy,Wizzrobe,Unknown
+Blue Bokoblin,Enemy,Bokoblin,Unknown
+Blue Lizalfos,Enemy,Lizalfos,Unknown
+Blue-Maned Lynel,Enemy,Lynel,Unknown
+Blue Moblin,Enemy,Moblin,Unknown
+Bokoblin,Enemy,Bokoblin,Unknown
+Chuchu,Enemy,Chuchu,Unknown
+Cursed Bokoblin,Enemy,Bokoblin,Unknown
+Cursed Lizalfos,Enemy,Lizalfos,Unknown
+Cursed Moblin,Enemy,Moblin,Unknown
+Decayed Guardian,Enemy,Guardian,Unknown
+Electric Chuchu,Enemy,Chuchu,Unknown
+Electric Keese,Enemy,Keese,Unknown
+Electric Lizalfos,Enemy,Lizalfos,Unknown
+Electric Wizzrobe,Enemy,Wizzrobe,Unknown
+Fire-Breath Lizalfos,Enemy,Lizalfos,Unknown
+Fire Chuchu,Enemy,Chuchu,Unknown
+Fire Keese,Enemy,Keese,Unknown
+Fire Wizzrobe,Enemy,Wizzrobe,Unknown
+Forest Octorok,Enemy,Octorok,Unknown
+Frost Pebblit,Enemy,Talus,Unknown
+Golden Bokoblin,Enemy,Bokoblin,Unknown
+Golden Lizalfos,Enemy,Lizalfos,Unknown
+Golden Lynel,Enemy,Lynel,Unknown
+Golden Moblin,Enemy,Moblin,Unknown
+Guardian Stalker,Enemy,Guardian,Unknown
+Guardian Scout I,Enemy,Guardian,Unknown
+Guardian Scout II,Enemy,Guardian,Unknown
+Guardian Scout III,Enemy,Guardian,Unknown
+Guardian Scout IV,Enemy,Guardian,Unknown
+Guardian Skywatcher,Enemy,Guardian,Unknown
+Guardian Turret,Enemy,Guardian,Unknown
+Ice Chuchu,Enemy,Chuchu,Unknown
+Ice Keese,Enemy,Keese,Unknown
+Ice-Breath Lizalfos,Enemy,Lizalfos,Unknown
+Ice Wizzrobe,Enemy,Wizzrobe,Unknown
+Igneo Pebblit,Enemy,Talus,Unknown
+Keese,Enemy,Keese,Unknown
+Lizalfos,Enemy,Lizalfos,Unknown
+Lynel,Enemy,Lynel,Unknown
+Meteo Wizzrobe,Enemy,Wizzrobe,Unknown
+Moblin,Enemy,Moblin,Unknown
+Rock Octorok,Enemy,Octorok,Unknown
+Sentry,Enemy,Guardian,Unknown
+Silver Bokoblin,Enemy,Bokoblin,Unknown
+Silver Lizalfos,Enemy,Lizalfos,Unknown
+Silver Lynel,Enemy,Lynel,Unknown
+Silver Moblin,Enemy,Moblin,Unknown
+Sky Octorok,Enemy,Octorok,Unknown
+Snow Octorok,Enemy,Octorok,Unknown
+Stalizalfos,Enemy,Lizalfos,Unknown
+Stalkoblin,Enemy,Bokoblin,Unknown
+Stalmoblin,Enemy,Moblin,Unknown
+Stone Pebblit,Enemy,Talus,Unknown
+Thunder Wizzrobe,Enemy,Wizzrobe,Unknown
+Treasure Octorok,Enemy,Octorok,Unknown
+Water Octorok,Enemy,Octorok,Unknown
+White-Maned Lynel,Enemy,Lynel,Unknown
+Yiga Blademaster,Enemy,Sheikah,Male
+Yiga Footsoldier,Enemy,Sheikah,Male
+Stone Talus,Boss,Talus,Unknown
+Stone Talus (Junior),Boss,Talus,Unknown
+Stone Talus (Senior),Boss,Talus,Unknown
+Stone Talus (Luminous),Boss,Talus,Unknown
+Stone Talus (Rare),Boss,Talus,Unknown
+Igneo Talus,Boss,Talus,Unknown
+Frost Talus,Boss,Talus,Unknown
+Hinox,Boss,Hinox,Unknown
+Blue Hinox,Boss,Hinox,Unknown
+Black Hinox,Boss,Hinox,Unknown
+Stalnox,Boss,Hinox,Unknown
+Molduga,Boss,Molduga,Unknown
+Igneo Talus Titan,Boss,Talus,Unknown
+Molduking,Boss,Molduga,Unknown
+Windblight Ganon,Boss,Unknown,Unknown
+Fireblight Ganon,Boss,Unknown,Unknown
+Thunderblight Ganon,Boss,Unknown,Unknown
+Waterblight Ganon,Boss,Unknown,Unknown
+Master Kohga,Boss,Sheikah,Male
+Monk Maz Koshia,Boss,Sheikah,Male
+Calamity Ganon,Boss,Gerudo,Male
+Dark Beast Ganon,Boss,Gerudo,Male
